@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3.75in" height="2.25in" viewBox="0 0 1125 675">
+<title>Fruit Bazaar — visiting card front</title><defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#173e31"/><stop offset=".55" stop-color="#214d3c"/><stop offset="1" stop-color="#102e26"/></linearGradient>
+  <linearGradient id="cream" x2="0" y2="1"><stop stop-color="#fffdf5"/><stop offset="1" stop-color="#f4edda"/></linearGradient>
+  <radialGradient id="mango" cx=".27" cy=".22" r=".9"><stop stop-color="#fff0a1"/><stop offset=".32" stop-color="#f7bd45"/><stop offset=".69" stop-color="#e98631"/><stop offset="1" stop-color="#bb4f31"/></radialGradient>
+  <radialGradient id="orange" cx=".29" cy=".24" r=".82"><stop stop-color="#ffe78d"/><stop offset=".24" stop-color="#ffb633"/><stop offset=".68" stop-color="#ef7c1d"/><stop offset="1" stop-color="#be4d18"/></radialGradient>
+  <radialGradient id="guava" cx=".29" cy=".22" r=".84"><stop stop-color="#ffdca0"/><stop offset=".35" stop-color="#f7b270"/><stop offset=".78" stop-color="#e77e52"/><stop offset="1" stop-color="#a94a3c"/></radialGradient>
+  <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a7c66e"/><stop offset=".42" stop-color="#517d49"/><stop offset="1" stop-color="#244936"/></linearGradient>
+  <linearGradient id="leaf2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c5d58a"/><stop offset=".55" stop-color="#6a914f"/><stop offset="1" stop-color="#34563a"/></linearGradient>
+  <linearGradient id="basket" x1="0" y1="0" x2=".15" y2="1"><stop stop-color="#c78a48"/><stop offset=".48" stop-color="#ad703a"/><stop offset="1" stop-color="#7d4b2d"/></linearGradient>
+  <filter id="shadow" x="-.2" y="-.2" width="1.5" height="1.6"><feGaussianBlur in="SourceAlpha" stdDeviation="12"/><feOffset dy="12"/><feComponentTransfer><feFuncA type="linear" slope=".28"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grain" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="1" cy="2" r=".6" fill="#fff" opacity=".08"/><circle cx="6" cy="5" r=".45" fill="#132e25" opacity=".08"/></pattern>
+  <pattern id="basketweave" width="18" height="14" patternUnits="userSpaceOnUse"><path d="M0 2h18M0 9h18M4 0v14M13 0v14" stroke="#b57a42" stroke-width="1.5" opacity=".55"/></pattern>
+</defs>
+<rect width="1125" height="675" fill="url(#bg)"/>
+<rect width="1125" height="675" fill="url(#grain)"/>
+<path d="M700 0 C780 145 765 440 630 675 H1125 V0Z" fill="#ecdbb8" opacity=".07"/>
+<path d="M66 71h70" stroke="#e8bf75" stroke-width="4"/>
+<g transform="translate(72 116)"><circle cx="0" cy="0" r="8" fill="#e85b48"/><circle cx="22" cy="0" r="8" fill="#f4b348"/><circle cx="44" cy="0" r="8" fill="#a9c879"/><circle cx="0" cy="22" r="8" fill="#f4b348"/><circle cx="22" cy="22" r="8" fill="#a9c879"/><circle cx="44" cy="22" r="8" fill="#e85b48"/><path d="M0 0h44M0 22h44M0 0v22M22 0v22M44 0v22" fill="none" stroke="#fff7e6" stroke-width="2" opacity=".38"/></g>
+<text x="72" y="246" font-family="Georgia,serif" font-size="72" font-weight="700" fill="#fff8e8" letter-spacing="-2">Fruit Bazaar</text>
+<text x="76" y="294" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#e9c77f" letter-spacing="5">YOUR NEIGHBOURHOOD FRUIT MARKET</text>
+<path d="M76 337h360" stroke="#dcb46b" stroke-width="1.5" opacity=".7"/>
+<text x="76" y="386" font-family="Georgia,serif" font-size="31" font-style="italic" fill="#f7eedc">A little colour,</text>
+<text x="76" y="426" font-family="Georgia,serif" font-size="31" font-style="italic" fill="#f7eedc">a lot of good.</text>
+<text x="76" y="526" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#bfd09c" letter-spacing="3">GOOD FRUIT · GOOD MOOD</text>
+
+<g filter="url(#shadow)">
+  <!-- dark waxy leaves -->
+  <path d="M850 238 C799 183 816 132 886 117 C909 174 892 218 850 238Z" fill="url(#leaf)"/>
+  <path d="M890 248 C891 177 944 142 1003 174 C986 225 944 250 890 248Z" fill="url(#leaf2)"/>
+  <path d="M814 276 C758 230 769 186 817 166 C845 207 842 244 814 276Z" fill="url(#leaf)"/>
+  <path d="M869 226 Q852 174 832 145 M896 227 Q927 190 970 178" fill="none" stroke="#bdd08d" stroke-width="3" opacity=".7"/>
+  <!-- mango -->
+  <path d="M898 229 C930 188 1015 189 1048 244 C1079 298 1041 379 986 394 C935 409 887 349 883 297 C881 270 886 244 898 229Z" fill="url(#mango)"/>
+  <path d="M898 259 C913 225 955 210 982 219" fill="none" stroke="#ffe9a0" stroke-width="9" stroke-linecap="round" opacity=".45"/>
+  <path d="M993 222 C1025 235 1049 268 1050 300 C1034 280 1020 260 993 222Z" fill="#ec7142" opacity=".55"/>
+  <path d="M962 224 Q956 205 970 196" fill="none" stroke="#645030" stroke-width="7" stroke-linecap="round"/>
+  <!-- orange -->
+  <circle cx="835" cy="338" r="61" fill="url(#orange)"/>
+  <circle cx="817" cy="318" r="16" fill="#fff4d2" opacity=".26"/>
+  <path d="M829 277 Q836 263 847 273 Q842 285 829 284Z" fill="#385a38"/>
+  <path d="M838 278 Q855 260 868 269 Q858 283 838 282Z" fill="#6f914d"/>
+  <!-- guava -->
+  <path d="M888 343 C894 299 950 283 981 314 C1013 347 991 404 951 416 C913 428 878 391 888 343Z" fill="url(#guava)"/>
+  <path d="M901 330 C914 307 940 301 957 309" fill="none" stroke="#fff5cb" stroke-width="8" stroke-linecap="round" opacity=".55"/>
+  <path d="M927 303 Q932 284 946 282" fill="none" stroke="#685136" stroke-width="6" stroke-linecap="round"/>
+  <!-- a cut guava glimpse -->
+  <ellipse cx="1005" cy="416" rx="48" ry="37" transform="rotate(-16 1005 416)" fill="#f4d9a6"/>
+  <ellipse cx="1005" cy="416" rx="34" ry="25" transform="rotate(-16 1005 416)" fill="#edc5ae"/>
+  <g fill="#8d6b51"><circle cx="991" cy="410" r="2.5"/><circle cx="1004" cy="401" r="2.5"/><circle cx="1017" cy="408" r="2.5"/><circle cx="1020" cy="420" r="2.5"/><circle cx="1007" cy="429" r="2.5"/><circle cx="993" cy="424" r="2.5"/></g>
+  <!-- woven market basket -->
+  <path d="M794 390 Q928 418 1057 388 L1027 537 Q925 570 824 537Z" fill="url(#basket)" stroke="#c18a49" stroke-width="7"/>
+  <path d="M798 397 Q924 427 1054 396 M804 420 Q927 450 1049 419 M809 446 Q929 475 1044 444 M814 472 Q930 502 1039 470 M819 500 Q931 529 1034 497 M824 526 Q931 554 1029 523" fill="none" stroke="#f1c07a" stroke-width="8" opacity=".85"/>
+  <path d="M831 397 L851 543 M867 405 L882 552 M905 411 L914 557 M945 411 L942 558 M984 406 L970 550 M1022 398 L998 542" fill="none" stroke="#a66d38" stroke-width="5" opacity=".72"/>
+  <path d="M820 389 Q926 365 1061 385" fill="none" stroke="#f4cd8d" stroke-width="14" stroke-linecap="round"/>
+</g>
+
+<path d="M58 583h1009" stroke="#e9c77f" stroke-width="1" opacity=".5"/>
+<text x="72" y="612" font-family="Arial,sans-serif" font-size="12" fill="#e2d6bd" letter-spacing="2">FRUIT-BAZAAR.PAGES.DEV</text>
+</svg>

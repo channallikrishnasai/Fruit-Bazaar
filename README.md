@@ -17,4 +17,8 @@ Fruit thumbnails and five-sentence botanical background notes are requested from
 
 The Mango profile includes a verified high-resolution mango farm photograph from Wikimedia Commons (`Mango farm.jpg`, by Syedabdhakir, CC BY-SA 4.0). The farm gallery search uses fruit common names and orchard, harvest, and picking terms.
 
-Photo backgrounds and web fonts load online. The website is a visual demo; it is not connected to inventory, ordering, a public domain, or a QR code yet.
+Photo backgrounds and web fonts load online. The website is a visual demo; it is not connected to inventory or ordering.
+
+## Visiting card
+
+`fruit-bazaar-card-front.svg` and `fruit-bazaar-card-back.svg` are the print-ready two-sided card artwork, designed at 3.75 × 2.25 inches including 1/8-inch bleed. The back has the website QR embedded as an unchanged square code inside a fruit-basket frame. Trim to 3.5 × 2 inches after printing.
