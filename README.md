@@ -21,5 +21,6 @@ Photo backgrounds and web fonts load online. The website is a visual demo; it is
 
 ## Visiting card
 
-`fruit-bazaar-card-front.svg` is the single-sided print artwork, designed at 3.75 × 2.25 inches including 1/8-inch bleed. Its high-contrast website QR sits on a warm-white scan plaque beside shaded fruit artwork. Trim to 3.5 × 2 inches after printing.
+`fruit-bazaar-card-front.svg` is the single-sided print artwork, designed at 3.75 × 2.25 inches including 1/8-inch bleed. Its colorful dotted QR uses circular finder eyes on a warm-white plaque beside shaded fruit artwork; it still links to the live website. Trim to 3.5 × 2 inches after printing.
 
+The matching QR assets are available as SVG and PNG. The QR retains its standard module arrangement and quiet zone, with contrast-forward fruit-market colors.
