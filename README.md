@@ -24,3 +24,6 @@ Photo backgrounds and web fonts load online. The website is a visual demo; it is
 `fruit-bazaar-card-front.svg` is the single-sided print artwork, designed at 3.75 × 2.25 inches including 1/8-inch bleed. Its colorful dotted QR uses circular finder eyes on a warm-white plaque beside shaded fruit artwork; it still links to the live website. Trim to 3.5 × 2 inches after printing.
 
 The matching QR assets are available as SVG and PNG. The QR retains its standard module arrangement and quiet zone, with contrast-forward fruit-market colors.
+
+Print exports: ruit-bazaar-card-front.png and ruit-bazaar-card-front.jpg are full-resolution 1125 × 675 px (300 dpi), alongside the vector SVG.
+
